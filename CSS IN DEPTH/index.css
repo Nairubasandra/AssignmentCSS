@@ -1,0 +1,61 @@
+body{
+    background-image: url(./images/download.jpeg); background-image: non repeat; background-size: cover;
+    position: absolute;
+    text-indent: 50px;
+    overflow: scroll;
+
+    
+    
+}
+
+.a{
+    color: aqua;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-align: center;
+    text-align-last: center;
+}
+.b{
+    color: black;
+    margin-right: 550px;
+    text-shadow: red;
+    text-decoration-color: blueviolet;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+    position: absolute;
+
+
+}
+
+
+.ol{
+    list-style-type: upper-roman;
+    color: black;
+    text-align: left;
+    text-decoration-color: blue;
+
+} 
+.ul{
+    color: blue;
+    text-shadow: brown;
+    list-style-type: circle;
+
+}
+.c{
+    text-indent: 50px;
+    position: -webkit-sticky;
+    text-align: center;
+    border: 2px solid;
+    position: absolute;
+
+
+}
+.d{
+    margin-top: 0%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
